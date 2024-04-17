@@ -2,7 +2,6 @@ package com.dilip.microservices.product.controller;
 
 import com.dilip.microservices.product.dto.ProductRequest;
 import com.dilip.microservices.product.dto.ProductResponse;
-import com.dilip.microservices.product.model.Product;
 import com.dilip.microservices.product.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

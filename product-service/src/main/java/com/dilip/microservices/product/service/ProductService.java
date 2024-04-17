@@ -4,7 +4,6 @@ import com.dilip.microservices.product.dto.ProductRequest;
 import com.dilip.microservices.product.dto.ProductResponse;
 import com.dilip.microservices.product.model.Product;
 import com.dilip.microservices.product.repository.ProductRepository;
-import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
