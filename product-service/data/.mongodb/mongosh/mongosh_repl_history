@@ -1,0 +1,10 @@
+show dbs
+use product-service
+show dbs
+use admin
+show dbs
+use admin
+help
+show dbs
+db.getUsers()
+use adminuse adminadminuse admindmin
