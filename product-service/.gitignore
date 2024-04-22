@@ -31,5 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
-data/
 /data/
+/data/.mongodb/
+/data/diagnostic.data/
+/data/journal/
